@@ -9,12 +9,12 @@
   "description": "Track and view sales performance across time for TBC resorts.",
   "icons": [
     {
-      "src": "/icons/icon-192x192.png",
+      "src": "/viva_belize_logo.jpeg",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/icons/icon-512x512.png",
+      "src": "/viva_belize_logo.jpeg",
       "sizes": "512x512",
       "type": "image/png"
     }
